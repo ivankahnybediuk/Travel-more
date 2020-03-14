@@ -8,7 +8,7 @@
   font-size: 16px;
   color: white;
   text-transform: uppercase;
-  background-image: url(/img/button.svg);
+  background-image: url(img/button.svg);
   background-color: #5474fd;
   background-position: left;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@
 }
 
 .first-page {
-  background-image: url(/img/first-page-bg.png);
+  background-image: url(img/first-page-bg.png);
   background-position: center;
   background-size: cover;
 }
@@ -254,7 +254,7 @@
 }
 
 .third-page {
-  background-image: url(/img/third-page-bg.png);
+  background-image: url(img/third-page-bg.png);
 }
 
 .third-page-row-1-text {
@@ -317,7 +317,7 @@
 
 .forth-page .forth-page-row-2 {
   background-color: #333333;
-  background-image: url(/img/Shape.png);
+  background-image: url(img/Shape.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: auto;
@@ -358,17 +358,17 @@
 }
 
 .fifth-page {
-  background-image: url(/img/fifth-pg-bg.png);
+  background-image: url(img/fifth-pg-bg.png);
   background-size: cover;
 }
 
 .sixth-page {
-  background-image: url(/img/sixth-pg-bg.png);
+  background-image: url(img/sixth-pg-bg.png);
   background-size: cover;
 }
 
 .seventh-page {
-  background-image: url(/img/seventh-bg.png);
+  background-image: url(img/seventh-bg.png);
   background-size: cover;
 }
 
@@ -386,7 +386,7 @@
 }
 
 .seventh-page .comment-block-img {
-  background-image: url(/img/seventh-pg-img.png);
+  background-image: url(img/seventh-pg-img.png);
   background-size: cover;
   background-position: center;
   max-width: 462px;
